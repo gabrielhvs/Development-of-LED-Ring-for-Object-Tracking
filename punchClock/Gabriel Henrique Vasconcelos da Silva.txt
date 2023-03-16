@@ -1,1 +1,3 @@
+2023-03-13 : 10:01:12 - 11:58:10 >> Estudo das atividades a serem desenvolvidas 
+2023-03-14 : 14:05:47 - 16:03:09 >> Divisão por ordem de prioridade das atividade 
 2023-03-15 : 09:21:33 - 15:33:05 >> Revisão de datasheets de anéis de Led - Distribição luminosa
