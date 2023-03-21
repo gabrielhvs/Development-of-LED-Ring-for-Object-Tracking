@@ -2,3 +2,4 @@
 2023-03-14 : 14:05:47 - 16:03:09 >> Divisão por ordem de prioridade das atividade 
 2023-03-15 : 09:21:33 - 15:33:05 >> Revisão de datasheets de anéis de Led - Distribição luminosa
 2023-03-16 : 14:21:02 - 15:41:47 >> Configuração da Raspberry e teste de camera modo stremming 
+2023-03-21 : 14:01:02 - 18:02:53 >> Definição das atividades semanais e materiais de pesquisa 

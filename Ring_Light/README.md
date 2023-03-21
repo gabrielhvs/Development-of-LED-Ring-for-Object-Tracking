@@ -20,4 +20,8 @@
 
 [VISHAY](https://www.vishay.com/en/ir-emitting-diodes/)
 
-[LAMBDA] (https://lambdares.com/tracepro)
+### Simulação
+
+[LAMBDA](https://lambdares.com/tracepro)
+
+[DIAlux](https://www.dialux.com/en-GB/download)
