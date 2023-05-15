@@ -1,6 +1,7 @@
 
 Alt_Cam = 2.6;
 Raio_Ar = 3;
+Cam_theta = atan2(Raio_Ar,Alt_Cam);
 d = sqrt((Alt_Cam^2)+(Raio_Ar ^2));
 
 theta = 30;
@@ -85,9 +86,37 @@ contour(x,y,Ev)
 figure(5)
 surf(x,y,Ev)
 
+%% Arena
+
+% Plano 
+
+xv = 0; yv = 0; zv = 1;
+xp = 1; yp = 0; zp = 0;
+
+rotv = [cos(Cam_theta) 0 sin(Cam_theta);0 1 0 ; -sin(Cam_theta) 0 cos(Cam_theta)]*[xv; yv; zv];
+rotp = [cos(Cam_theta) 0 sin(Cam_theta);0 1 0 ; -sin(Cam_theta) 0 cos(Cam_theta)]*[xp; yp; zp]; 
+
+D = -(rotv(1)*rotp(1)+rotv(2)*rotp(2)+rotv(3)*rotp(3));
+
+zp = zeros(Dim,Dim);
+
+for j=1:Dim
+    for i=1:Dim  
+        zp(i,j) = -(D + rotv(1)*x(i)+rotv(2)*y(j)) /rotv(3);   
+    end
+end
+
+% Apenas somar a distancia "d" etá errado porque D em cima do zero, é
+% necessario rever os calculos.
+
+surface(x,y,zp);
+
+for i=1:Dim
+     for j=1:Dim
+            Ev(i,j) = Ev(i,j)/zp(i,j);
+      end
+end
+
 figure(6)
-plot(y,Ev(Dim/2,:))
-
-
-
+surf(x,y,Ev)
 

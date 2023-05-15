@@ -25,24 +25,12 @@ y = linspace(-3,3,Dim);
 xv = 0; yv = 0; zv = 1;
 xp = 1; yp = 0; zp = 0;
 
-
-
 rotv = [cos(Cam_theta) 0 sin(Cam_theta);0 1 0 ; -sin(Cam_theta) 0 cos(Cam_theta)]*[xv; yv; zv];
 rotp = [cos(Cam_theta) 0 sin(Cam_theta);0 1 0 ; -sin(Cam_theta) 0 cos(Cam_theta)]*[xp; yp; zp]; 
 
-D = -(rotv(1)*rotp(%% Variance calc
-
-
-Var_Ilumi1 = 100*var(E_arena,0,1)./mean(E_arena,1);
-Var_Ilumi2 = 100*var(E_arena,0,2)./mean(E_arena,2);
-figure(2)
-plot(x,Var_Ilumi1,y,Var_Ilumi2);
-1)+rotv(2)*rotp(2)+rotv(3)*rotp(3));
-
+D = -(rotv(1)*rotp(1)+rotv(2)*rotp(2)+rotv(3)*rotp(3));
 
 zp = zeros(Dim,Dim);
-
-
 
 for j=1:Dim
         for i=1:Dim
@@ -51,8 +39,10 @@ for j=1:Dim
           
         end
 end
-
+surface(x,y,zp)
 zp=zp + z;
+
+
 
 %% Intensidade luminosa  
 E0 = 1;
@@ -89,6 +79,13 @@ surf(x,y,E_arena)
 
 
 
+%% Variance calc
+
+
+Var_Ilumi1 = 100*var(E_arena,0,1)./mean(E_arena,1);
+Var_Ilumi2 = 100*var(E_arena,0,2)./mean(E_arena,2);
+figure(2)
+plot(x,Var_Ilumi1,y,Var_Ilumi2);
 
 
 
