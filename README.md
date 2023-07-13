@@ -19,13 +19,13 @@
 ## Uniformidade na Iluminação
 
 
-[](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/Analysis_of_condition_for_uniform_lighting_generat.pdf)
+[Analysis_of_condition_for_uniform_lighting_generat](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Papers/Analysis_of_condition_for_uniform_lighting_generat.pdf)
 
 
-[](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/ApplOpt2006.pdf)
+[Development Light-Emiter Diode](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Papers/ApplOpt2006.pdf)
 
 
-[](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/1-s2.0-S0030402617304400-main.pdf)
+[Heat Dissippation](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/1-s2.0-S0030402617304400-main.pdf)
 
 
 ### Simulação
@@ -102,27 +102,27 @@ Os led não precisam estar necessariamente a 90 graus do plano do anel, eles pod
 ### Fornecedores e Datasheets
 
 
-[](https://docs.rs-online.com/6c0c/0900766b81121e5e.pdf)
+[1](https://docs.rs-online.com/6c0c/0900766b81121e5e.pdf)
 
 
-[](https://docs.rs-online.com/d7e2/0900766b80e1b0e4.pdf)
+[2](https://docs.rs-online.com/d7e2/0900766b80e1b0e4.pdf)
 
 
-[](https://www.mouser.com/datasheet/2/216/AA4040SF4BT_P22-2891735.pdf)
+[3](https://www.mouser.com/datasheet/2/216/AA4040SF4BT_P22-2891735.pdf)
 
 
-[](https://www.mouser.com/datasheet/2/414/TTRB_S_A0010459733_1-2565676.pdf)
+[4](https://www.mouser.com/datasheet/2/414/TTRB_S_A0010459733_1-2565676.pdf)
 
 
-[](https://www.mouser.com/datasheet/2/1094/MTE0013_995_IR-2237734.pdf)
+[5](https://www.mouser.com/datasheet/2/1094/MTE0013_995_IR-2237734.pdf)
 
 
-[](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
+[6](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
 
 
-[](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
+[7](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
 
 
-[](https://chromeled.com/pdf/smd/subminiature/CSM28IR940CZ.pdf)
+[8](https://chromeled.com/pdf/smd/subminiature/CSM28IR940CZ.pdf)
 
 
