@@ -102,27 +102,7 @@ Os led não precisam estar necessariamente a 90 graus do plano do anel, eles pod
 ### Fornecedores e Datasheets
 
 
-[1](https://docs.rs-online.com/6c0c/0900766b81121e5e.pdf)
+[Lista de Fornecedores](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Fornecedores.txt)
 
-
-[2](https://docs.rs-online.com/d7e2/0900766b80e1b0e4.pdf)
-
-
-[3](https://www.mouser.com/datasheet/2/216/AA4040SF4BT_P22-2891735.pdf)
-
-
-[4](https://www.mouser.com/datasheet/2/414/TTRB_S_A0010459733_1-2565676.pdf)
-
-
-[5](https://www.mouser.com/datasheet/2/1094/MTE0013_995_IR-2237734.pdf)
-
-
-[6](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
-
-
-[7](https://www.mouser.com/datasheet/2/414/OPTIS01176_1-2564856.pdf)
-
-
-[8](https://chromeled.com/pdf/smd/subminiature/CSM28IR940CZ.pdf)
 
 
