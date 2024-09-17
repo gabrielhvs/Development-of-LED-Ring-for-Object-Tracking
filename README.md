@@ -27,7 +27,7 @@
 
 <div align="center">
     <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking" target="_blank">
-        <img src="/home/gabriel/repositories/Development-of-LED-Ring-for-Object-Tracking/images/led-ring.png" 
+        <img src="images/led-ring.png" 
         alt="Led Ring" width="350" height="290">
     </a>
 </div>
