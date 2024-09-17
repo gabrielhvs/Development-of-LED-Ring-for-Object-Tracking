@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-    <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking?color=ff69b4&style=for-the-badge"></a>
+    <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking?color=ff69b4&style=for-the-badge"></a>
     <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
     <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking?color=brightgreen&label=issues&style=for-the-badge"></a>
     <a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking?color=9cf&label=forks&style=for-the-badge"></a>
@@ -106,7 +106,7 @@ The repository focuses on developing an LED ring for object tracking, highlighti
             <td><a href="#acknowledgments">Acknowledgments</a></td>
         </tr>
         <tr>
-            <!--<td><a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/tree/main/Learning_Resources">Learning Resources</a></td>-->
+            <!--<td><a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/tree/master/Learning_Resources">Learning Resources</a></td>-->
             <!--<td><a href="https://github.com/gabrielhvs/Development-of-LED-Ring-for-Object-Tracking/wiki/Step-by-Step-Guide">
             Step By Step Guide</a></td>-->
             <!--<td><a href="#feedback">Feedback</a></td>-->
@@ -187,7 +187,7 @@ The repository focuses on developing an LED ring for object tracking, highlighti
 - [Development Light-Emiter Diode](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Papers/ApplOpt2006.pdf)
 
 
-- [Heat Dissippation](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/1-s2.0-S0030402617304400-main.pdf)
+- [Heat Dissippation](https://github.com/gabrielhvs/Estagio_Supervisionado/blob/master/Ring_Light/Papers/1-s2.0-S0030402617304400-master.pdf)
 
 
 <!-- - Use this html element to create a back to top button. -->
