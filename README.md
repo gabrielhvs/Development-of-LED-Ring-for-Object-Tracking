@@ -40,7 +40,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&lines= Development of LED-Ring for Object Tracking">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&lines=Development-of-LED-Ring-for-Object-Tracking">
 </div>
 
 
